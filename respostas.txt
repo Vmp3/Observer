@@ -1,0 +1,10 @@
+Aluno: Vicente Menezes Pereira
+
+
+1) Você concorda que o Observer é o mais utilizado como padrão? Por quê?
+
+Sim, concordo que o Observer é o padrão mais utilizado. Isso acontece devido aos grandes benefícios que ele propõe, como o desacoplamento, a flexibilidade para adicionar novos observadores e a eficácia em sistemas baseados em eventos. Essas características facilitam a manutenção e evolução do software, tornando-o popular em interfaces gráficas e sistemas reativos.
+
+2) Quais os elementos que mais lhe chamam a atenção para o conhecimento dos padrões de projetos? 
+
+Os elementos mais importantes são o propósito do padrão, a estrutura e participantes, as consequências de seu uso, exemplos práticos e de código, e o relacionamento com outros padrões. Esses aspectos ajudam a aplicar os padrões de forma eficaz e melhorar o design de software.

@@ -8,7 +8,7 @@ public class GameStartNotifier {
 
         sportsOrganizationTeam.addGameStartObserver(fan);
 
-        sportsOrganizationTeam.start();
+        sportsOrganizationTeam.startGame();
     }
 
 }
